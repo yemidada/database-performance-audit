@@ -118,6 +118,10 @@ After you clone this repo to your desktop and install the dependencies, go to it
 - Twitter: [@naijavine](https://twitter.com/naijavine)
 - LinkedIn: [yemidada](https://linkedin.com/in/yemidada)
 
+👤 **Kgomotso (Troos) Nacane**
+- GitHub: [Troos](https://github.com/Kgomotso196)
+- Twitter: [Troos](https://twitter.com/t_r_o_o_s)
+- LinkedIn: [Troos](https://linkedin.com/in/kgomotso-nacane)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -125,6 +129,7 @@ After you clone this repo to your desktop and install the dependencies, go to it
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **Add more query**
+- [ ] **Data Validation and Error Handling**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -133,21 +138,21 @@ After you clone this repo to your desktop and install the dependencies, go to it
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/yemidada/database-performance-audit/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project you can support us  by sharing our code
+If you like this project, we kindly request you to show your support by giving it a star and considering following our social media pages. Your engagement would be greatly appreciated!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-Thanks you microverse for the opinion to opportunity
+We would like to thank Microverse for proposing this project, and extend our heartfelt thanks to our fellow programmers for their assistance whenever possible.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
