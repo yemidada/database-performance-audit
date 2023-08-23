@@ -13,6 +13,7 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+  - [Schema Diagram](#schema-diagram)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Usage](#usage)
@@ -51,6 +52,11 @@ The various stacks used for the project includes the following
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## 📑 Schema Diagram <a name="schema-diagram"></a>
+
+![image](schemadata.png)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
