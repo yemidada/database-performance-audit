@@ -1,6 +1,3 @@
-
-
-
 CREATE TABLE invoices (
     "id"  SERIAL PRIMARY KEY,
     "total_amount" numeric,
