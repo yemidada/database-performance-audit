@@ -48,6 +48,7 @@ CREATE TABLE treatments (
 );
 
 
+
 CREATE TABLE medical_history_treatments (
     "id"  SERIAL PRIMARY KEY,
     "medical_history_id" int,
